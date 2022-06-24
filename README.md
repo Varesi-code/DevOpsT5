@@ -12,3 +12,9 @@
     [linkedin](https://www.linkedin.com/in/josermendez/) \
     Programador, Infraestructura, Analisis de datos \
     Curso CLoud DevOps
+
+ - Cristian Iglesias \
+    iglesias.crist@gmail.com \
+    [linkedin](https://www.linkedin.com/in/cristian-iglesias-a7031181/) \
+    Programador, Infraestructura, Analisis de datos \
+    Curso CLoud DevOps
