@@ -30,3 +30,9 @@
     [linkedin](https://www.linkedin.com/in/nataliavaresi/) \
     Programador, Infraestructura \
     Curso CLoud DevOps
+    
+  - Rodrigo M. Bringas \
+    rmbringas@gmail.com \
+    [linkedin](https://www.linkedin.com/in/rodrigo-m-bringas-40410622/) \
+    Systems Engineering Engineer \
+    Curso CLoud DevOps
