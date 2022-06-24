@@ -24,3 +24,9 @@
     [linkedin](https://www.linkedin.com/in/cristian-iglesias-a7031181/) \
     Programador, Infraestructura, Analisis de datos \
     Curso CLoud DevOps
+    
+  - Natalia Varesi \
+    varesinatalia@gmail.com \
+    [linkedin](https://www.linkedin.com/in/nataliavaresi/) \
+    Programador, Infraestructura \
+    Curso CLoud DevOps
