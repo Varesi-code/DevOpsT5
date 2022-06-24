@@ -36,3 +36,9 @@
     [linkedin](https://www.linkedin.com/in/rodrigo-m-bringas-40410622/) \
     Systems Engineering Engineer \
     Curso CLoud DevOps
+    
+  - Ignacio Torres \
+    nacho.torres.550@gmail.com \
+    [linkedin](https://www.linkedin.com/in/ignacio-torres-ar/) \
+    Seguridad informatica \
+    Carrera experto en Devops
