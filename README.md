@@ -12,3 +12,9 @@
     [linkedin](https://www.linkedin.com/in/josermendez/) \
     Programador, Infraestructura, Analisis de datos \
     Curso CLoud DevOps
+
+  - Marco Marin \
+    mmarin@advertmind.com \
+    [linkedind](https://www.linkedin.com/in/marcotmarin/) \
+    Soporte DevOps \
+    Curso Cloud DevOps 
