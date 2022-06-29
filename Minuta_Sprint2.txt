@@ -1,0 +1,4 @@
+- Se creó el repositorio https://github.com/Varesi-code/DevOpsT5 y fue compartido con todos los miembros del equipo, quienes figuran como colaboradores del mismo.
+- Durante la sesión cada miembro del equipo confirmó haber instalado Visual Studio Code con los plugins indicados en el documento Trabajo Integrador y haber sincronizado el mismo con el repositorio del punto anterior.
+- Todos los miembros del equipo confirmaron haber instalado NodeJs en su última versión 16.15.1.
+- Quedó pendiente la instalación de los módulos de ReactJS y Express.
