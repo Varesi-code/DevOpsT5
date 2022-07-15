@@ -43,6 +43,6 @@
     Seguridad informatica \
     Carrera experto en Devops
     
-    Image AWS: ID : ami-031424dfa1bfe52c6
-               Name: 	EDITG5WS2019
-               Type: Windows Server 2019
+    Image AWS: ID : ami-031424dfa1bfe52c6 \
+               Name: 	EDITG5WS2019 \
+               Type: Windows Server 2019 \
